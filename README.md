@@ -9,11 +9,11 @@ If you find this software useful, please consider citing our work.
 
 ## Setup
 
-SEED is implemented using TensorFlow 1 in python 3.9.
+SEED is implemented using TensorFlow 1 in python 3.7.
 
-For a safe installation, create a virtual environment with `python` 3.9. For example, if you use `conda`:
+For a safe installation, create a virtual environment with `python` 3.7. For example, if you use `conda`:
 ```bash
-conda create -n seed python=3.9
+conda create -n seed python=3.7
 conda activate seed
 ```
 
